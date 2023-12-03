@@ -1,5 +1,5 @@
 # My achievements
-This repository will display all my development achievements. I understand active participation in hackathons and scientific conferences in the field of mobile development
+This repository will display all my development achievements. I'm taking part active participation in hackathons and scientific conferences in the field of mobile development
 
 ## More Tech 5.0
 https://moretech.vtb.ru
