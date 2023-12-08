@@ -16,3 +16,12 @@ In this hackathon, our team reached the semi-finals
 ![image](https://github.com/SogYa/achievements/assets/73115406/dbd3b1b6-1d1d-4c56-b8c9-af500b39b356)
 
 ## Kokoc-hackathon
+https://codenrock.com/contests/kokoc-hackathon-2023#/
+
+https://github.com/KatbertAllgood/sportivity
+
+The theme of this hackathon was the creation of a corporate mobile application for converting an employee's physical activity into charity. My team made it to the finals and took 4th place.
+At the moment, I am developing and improving this application for personal use.
+<img width="494" alt="image" src="https://github.com/SogYa/achievements/assets/73115406/952b8fa8-c441-4bf4-a6a6-ee6444af292f">
+
+![image](https://github.com/SogYa/achievements/assets/73115406/3e2ec16c-9990-470e-87aa-8a3c542a89cf)
